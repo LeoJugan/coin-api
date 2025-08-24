@@ -7,12 +7,14 @@
 - 單元測試
 
 ## API
+- GET /api/currenciesInit
 - GET /api/currencies
+- GET /api/currenciesHist
+- GET /api/currenciesFindByCode/{code}
 - POST /api/currencies
-- PUT /api/currencies/{id}
+- PUT /api/currencies/
 - DELETE /api/currencies/{id}
-- GET /api/coindesk/raw
-- GET /api/coindesk/transform
+
 
 ## 啟動
 ```bash
