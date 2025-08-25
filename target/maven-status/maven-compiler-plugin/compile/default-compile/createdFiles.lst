@@ -1,0 +1,7 @@
+com\example\coindesk\controller\CoindeskController.class
+com\example\coindesk\CoindeskApplication.class
+com\example\coindesk\repository\CurrencyHistRepository.class
+com\example\coindesk\service\CoindeskService.class
+com\example\coindesk\entity\CurrencyHist.class
+com\example\coindesk\entity\Currency.class
+com\example\coindesk\repository\CurrencyRepository.class
